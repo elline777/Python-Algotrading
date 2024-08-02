@@ -162,3 +162,4 @@ cython_debug/
 .idea/
 lib_correct/
 backtesting/examples/results/
+help.txt
